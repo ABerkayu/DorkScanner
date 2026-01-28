@@ -19,7 +19,7 @@ It leverages the power of Google Dorks to identify potential vulnerabilities, ex
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/DorkScanner.git](https://github.com/YOUR_USERNAME/DorkScanner.git)
+    git clone https://github.com/ABerkayu/DorkScanner.git
     ```
 
 2.  **Navigate to the Directory**
